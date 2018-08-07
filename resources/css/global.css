@@ -1,0 +1,6 @@
+* { box-sizing: border-box; }
+
+html, body { height: 100%; margin: 0; padding: 0;  width: 100%; }
+body { font-family: Arial; font-size: 13px; line-height: 1.5; padding: 20px; }
+
+img  { width: 960px; height: 540px; }
